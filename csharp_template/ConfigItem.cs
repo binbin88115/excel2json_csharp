@@ -17,5 +17,4 @@ namespace Config
 	{right}	
 
 {config_items}
-
 {right}	
